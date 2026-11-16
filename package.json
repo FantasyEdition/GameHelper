@@ -1,0 +1,13 @@
+{
+"name": "com.nexoe.gamehelper",
+"version": "1.0.0",
+"displayName": "Game Helper",
+"description": "Adds many things, to help make a game",
+ "author": {
+    "name": "Nexoe"
+  },
+"repository": {
+    "type": "git",
+    "url": "https://github.com/FantasyEdition/Game-Helper.git"
+  }
+}
